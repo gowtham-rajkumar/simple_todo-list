@@ -1,0 +1,76 @@
+body{
+    background-color: #1d3557;
+    color: #f1faee;
+}
+
+h1{
+    color: #a8dadc;
+    text-align: center;
+}
+
+#dlt-btn:hover{
+    color: #1d3557;
+    cursor: pointer;
+}
+
+#add-btn:hover{
+    color: #1d3557;
+    cursor: pointer;
+}
+
+#add-btn{
+    background-color: #a8dadc;
+    border: none;
+    color: black;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+#dlt-btn{
+    background-color: #e63946;
+    border: none;
+    color:#f1faee;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+#input{
+    background-color: #457b9d;
+    color:#f1faee;
+    border: none;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+::placeholder {
+    color: #f1faee;
+    opacity: 1;
+  }
+
+#container{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+}
+
+
+li{
+    padding: 10px;
+    font-size: 1.5em;
+}
+
+
+#box-2{
+    padding: 20px;
+}
+
+
+
